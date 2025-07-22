@@ -1,1 +1,1 @@
-# Jamadagyajit | Amazon Clone using HTML,CSS,Java Script
+# Amazon Clone using HTML,CSS,Java Script
